@@ -3,6 +3,11 @@ package escola;
 public class CPF {
 
     private String numero;
+
+    public String getNumero() {
+        return this.numero;
+    }
+
     // value object 
 
     public CPF(String numero) {
