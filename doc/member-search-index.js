@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.alura.escola.aluno","c":"Telefone","l":"getDdd()"},{"p":"br.com.alura.escola.aluno","c":"Telefone","l":"getNumero()"},{"p":"br.com.alura.escola.aluno","c":"Telefone","l":"Telefone(String, String)","u":"%3Cinit%3E(java.lang.String,java.lang.String)"}];updateSearchResults();

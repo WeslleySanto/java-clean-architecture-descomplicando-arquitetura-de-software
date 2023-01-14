@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.alura.escola.aluno","l":"Telefone"}];updateSearchResults();

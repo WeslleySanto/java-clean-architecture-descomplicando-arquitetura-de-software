@@ -1,4 +1,4 @@
-package escola;
+package br.com.alura.escola.dominio.aluno;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ public class Aluno {
 
     //Entidade onde temos um atributo que é unico
 
-    private String cpf;
+    private CPF cpf;
     private String nome;
 
     private Email email;
